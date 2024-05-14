@@ -1,5 +1,3 @@
-// app.js
-
 const express = require('express');
 const { Sequelize, DataTypes } = require('sequelize');
 
